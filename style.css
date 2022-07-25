@@ -1,0 +1,35 @@
+.cNav{
+    background-color: #f57ead;
+    padding-top: 0;
+}.navbar ul li a{
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+}.heroProduct h1{
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+}.heroProduct h2{
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+}.heroProduct p{
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+}.heroProduct button{
+    padding: 10px 40px;
+    border: none;
+    color: white;
+    font-weight: 500;
+    background-color: #f57ead;
+}.heroImg img{
+    width: 400px;
+}
+/* Second Section */
+.secondSection h2{
+    color: white;
+    font-weight: 700;
+}.categorie{
+    height: 150px;
+}
